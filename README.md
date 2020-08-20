@@ -61,7 +61,7 @@ $ npm start
 ```bash
 
 # Go to web folder
-$ cd Proffy/web
+$ /web
 
 # Install Dependencies
 $ npm install
