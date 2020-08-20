@@ -9,15 +9,11 @@
   </a>
 </p>
 
-<div align="center">
-
 ## :books: About
-
 <p>Proffy Project - This is a project developed during the Next Level Week, by @Rocketseat, carried out in August 2020.</p>
 
 <p>It is an application that connects teachers and students, or those interested in learning a certain subject.<p>
 
-</div>
 
 ## Preview 
 
@@ -36,11 +32,15 @@
 
 ## How To Use
 
-### *Clone Repository
+### Clone Repository
 
+```bash
 $ git clone https://github.com/digamo/proffy.git
+```
 
-### *Run API
+### Run API
+
+```bash
 
 # Go to server folder
 $ /server
@@ -54,7 +54,11 @@ $ npx knex:migrate
 # Run Aplication
 $ npm start
 
-### *Run Web Project
+```
+
+### Run Web Project
+
+```bash
 
 # Go to web folder
 $ cd Proffy/web
@@ -65,8 +69,11 @@ $ npm install
 # Run Aplication
 $ npm start
 
+```
+Access url: `http://localhost:3000/`
+
 ## License
 
 MIT License - [LICENSE](https://opensource.org/licenses/MIT)
 
-<p>Developed <a href='https://github.com/digamo/' target='blank'>Diego Gomes</a></p>
+<p>Developed by <a href='https://github.com/digamo/' target='blank'>Diego Gomes</a></p>
