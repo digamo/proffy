@@ -72,7 +72,7 @@ $ npm start
 ```
 Access url: `http://localhost:3000/`
 
-## License
+## :memo: License
 
 MIT License - [LICENSE](https://opensource.org/licenses/MIT)
 
