@@ -9,20 +9,20 @@
   </a>
 </p>
 
-## :books: About
+## 📖 About
 <p>Proffy Project - This is a project developed during the Next Level Week, by @Rocketseat, carried out in August 2020.</p>
 
 <p>It is an application that connects teachers and students, or those interested in learning a certain subject.<p>
 
 
-## Preview 
+## 🖥 Preview 
 
 <p align="center">
   <img src="https://ik.imagekit.io/w0qcbcqq5r/proffy_APfaZjiZa.png"  >
   
 </p>
 
-## Technology
+## 🚀 Technology
 <ul>
     <li><a href="https://reactjs.org/" target="_blank">React</a></li>
     <li><a href="https://nodejs.org/" target="_blank">Node.js</a></li>
@@ -30,7 +30,7 @@
 </ul>
 
 
-## How To Use
+## ⌨ How To Use
 
 ### Clone Repository
 
